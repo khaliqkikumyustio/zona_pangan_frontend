@@ -21,7 +21,9 @@
 
 ---
 
-## 3. Visualisasi Alur Data (Logic Flow)
+### 3. Visualisasi Alur Data (Logic Flow)
+
+```mermaid
 graph TD
     subgraph Registrasi
     M[Manager] -->|Daftar Perusahaan| DB[(Database)]
