@@ -1,5 +1,5 @@
 class ApiEndpoints {
-  static const String baseUrl = "http://192.168.1.16:5000";
+  static const String baseUrl = "isi ip yang sesuai dengan servernya";
 
   
   static const String login = "/auth/login";
